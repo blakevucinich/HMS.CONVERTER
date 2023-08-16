@@ -1,2 +1,1 @@
-# HMS.CONVERTER
-HMS CONVERTER
+Write an application that prompts the user for integer values that represent a time duration in hours, minutes, and seconds, and then calculates and prints the equivalent total number of seconds. For example, 1 hours, 28 minutes, 42 seconds is equivalent to 5322 seconds. The program should use a Scanner to read input from the user. It is helpful to work out the arithmetic equiation on paper before attempting to write the code. 
